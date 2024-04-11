@@ -1,27 +1,20 @@
-# Gest_Proy_BI_Act2
-Actividad 2 Gestión de proyectos BI 
+![](https://empleoypracticas.unir.net/wp-content/uploads/2021/07/Unir_M_600px.png)
 
-Actividad: Mini Case AW-Bikes (II). Convirtiendo datos en conocimiento  
+# Actividad 2: Gestión de Proyectos BI
 
- 
+## Actividad: Mini Case AW-Bikes (II). Convirtiendo datos en conocimiento
 
- Estudiantes: 
+### Estudiantes:
+- Karen Milena Trejos Rivera
+- Juan Sebastián Espejo Jiménez
+- Andrés Camilo Gutiérrez Escobar
+- David Alejandro Alvarado
+- Juan Nicolás Jara Ordoñez
 
-Karen Milena Trejos Rivera
-Juan Sebastián Espejo Jiménez
-Andrés Camilo Gutiérrez Escobar
-David Alejandro Alvarado
-Juan Nicolás Jara Ordoñez
+### Profesora:
+- Julia Andrea Pineda Acero
 
- 
- 
-PROFESORA:
-Julia Andrea Pineda Acero 
- 
- 
- 
- 
-Fundación Universitaria Internacional de la Rioja
-Especialización en Visual Analytics y Big Data
-Gobierno del Dato y toma de decisiones
-07 de enero de 2024
+### Fundación Universitaria Internacional de la Rioja
+### Especialización en Visual Analytics y Big Data
+### Gestion de Proyectos de Inteligencia de Negocios
+### 14 de Abril de 2024
