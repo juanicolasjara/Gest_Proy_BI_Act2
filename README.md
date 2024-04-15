@@ -3,7 +3,7 @@
 # Pasos:
 + 1.Limpeza y organización de los datos, eleccion de variables predictoras.
   + Se realizo en el archivo "UNIR AW-Bikes_Limpieza _seleccion_ prueba_modelo_Kernel SVM"
-  + resultado archivo de excel "AW-Bikes_Dataset.xlsx"
+  + Resultado archivo de excel "AW-Bikes_Dataset.xlsx"
     
 + 2. Selección y justificación del modelo de clasificación (Modelos probados).
   +AW_Bikes_Logistic_regression_model.ipynb
